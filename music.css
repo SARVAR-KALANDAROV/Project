@@ -11,10 +11,14 @@ body{
 }
 .mus{
     width: auto;
-    height: 400px;
+    height: 500px;
     border: solid 1px;
 }
 .sarlafha h1{
     text-align: center;
     font-size: 50px;
+}
+.end{
+    text-align: center;
+    margin-top: 80px;
 }
