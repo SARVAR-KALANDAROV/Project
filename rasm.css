@@ -1,3 +1,26 @@
-.rasm {
-    border: 5px;
+* {
+    margin: 3px;
+    padding: 3px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.tre {
+    border: solid black 2px;
+    color: blue;
+}
+
+.ert {
+    border: solid black 2px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.wer {
+    color: dimgray;
+}
+
+.rew {
+    color: dimgray;
 }
