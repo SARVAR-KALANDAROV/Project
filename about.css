@@ -1,0 +1,26 @@
+body{
+    background-color: black;
+}
+.A{
+   
+    width: 550px;
+    height: 400px;
+}
+.B{
+   
+    width: 500px;
+    height: 400px;
+    margin-left: 550px;
+}
+.D{
+    
+    width: 420px;
+    height: 400px;
+   
+}
+.E{
+    
+    width: 500px;
+    height: 400px;
+    margin-left: 550px;
+}
