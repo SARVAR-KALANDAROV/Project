@@ -29,7 +29,6 @@ body{
     background-image: url(fon.jpg);
     background-position: center;
     
-    
 }
 .E:hover{
     transition: 5s;
@@ -47,3 +46,24 @@ body{
     transition: 3s;
     transform: rotateY(180deg);
 }
+.F{
+    margin-top: 100px;
+   
+}
+.F:hover{
+    transition: 3s;
+    transform: rotateY(180deg);
+}
+
+@font-face {
+    font-family: Golibjon;
+    src: url("Dancing_Script/static/DancingScript-Bold.ttf");
+}
+
+h1{
+    font-family: Golibjon;
+}
+.iconify{
+    font-size: 400px;
+}
+
